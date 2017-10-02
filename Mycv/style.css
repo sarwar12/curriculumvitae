@@ -1,0 +1,60 @@
+*{}
+body{
+	font-family:arial;
+	color:#000;
+	font-size:16px;
+}
+.container{
+	width:1170px;
+	margin:0 auto;
+}
+/*Header Area*/
+.header {
+  background: #EDEDED;
+  height: 220px;
+}
+.icon{
+	float:left;
+	width:50%;
+}
+.logo{
+	float:left;
+}
+.logo img {
+  height: 200px;
+  width: 180px;
+}
+.details {
+  float: left;
+  position: relative;
+  top: 95px;
+  left: 23px;
+}
+.details h2 {
+  display: inline;
+}
+.details p{}
+.email {
+	float: right;
+	/* width: 50%; */
+	margin-right: 20px;
+}
+.email p{}
+/*Profile Area*/
+.Profile{
+	clear:both;
+}
+.perpro {
+  float: left;
+  width: 35%;
+}
+.perpro h1{}
+.perde {
+  float: left;
+  width: 65%;
+}
+.perde p{}
+.perde h2{}
+.perde h4{}
+.perde h5{}
+.form{}
